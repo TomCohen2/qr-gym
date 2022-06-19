@@ -1,0 +1,12 @@
+.home__container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 100%);
+}
+
+.home__container h1 {
+    font-size: 15rem;
+    font-weight: bold;
+
+}
